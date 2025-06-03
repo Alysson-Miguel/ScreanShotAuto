@@ -1,8 +1,0 @@
-{
-  "adapter": {
-    "app_id": "ODg1Njg0ODk3MjEz",
-    "app_secret": "LkHgcHkSyB_dVGzSEH_PRQRTFYiYP6au",
-    "signing_secret": "77.69.180.185"
-  },
-  "callback_path": "/callback"
-}
