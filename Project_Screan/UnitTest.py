@@ -16,8 +16,8 @@ url_planilha = "https://docs.google.com/spreadsheets/d/1CQ0LKwt6kAvAsK1-QSMK75Xg
 
 # ---------- CONFIGURAR CHROME COM PERFIL ----------
 #Modificar esse caminho dependendo do ambiente
-caminho_user_data = r"C:\Users\F4k3r\AppData\Local\Google\Chrome\User Data\Profile 1"
-nome_do_perfil = "Profile 1"
+caminho_user_data = r"C:\Users\SPXBR16549\AppData\Local\Google\Chrome\User Data\Profile 3"
+nome_do_perfil = "Profile 3"
 
 chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
